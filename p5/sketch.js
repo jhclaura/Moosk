@@ -4,7 +4,7 @@ let data, data2;
 function preload() {
 	img = loadImage('assets/DSC01881 copy.JPG');
 	data = loadJSON('assets/data.json');
-	img2 = loadImage('assets/DSC01881_edit.JPG');
+	img2 = loadImage('assets/andy_MOOSK_edit.JPG');
 	data2 = loadJSON('assets/data_edit.json');
 }
 
